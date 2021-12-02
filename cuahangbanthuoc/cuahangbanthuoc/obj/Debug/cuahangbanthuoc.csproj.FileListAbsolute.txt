@@ -1,0 +1,344 @@
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\cuahangbanthuoc.exe.config
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\cuahangbanthuoc.exe
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\cuahangbanthuoc.pdb
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\BLL.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\DAT.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\DOT.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\EnvDTE.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\stdole.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\BLL.pdb
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\DAT.pdb
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\DOT.pdb
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.csprojAssemblyReference.cache
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.DangNhap.resources
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.Form1.resources
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormDangKi.resources
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormDangNhap.resources
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormHangHoa.resources
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormHoaDon.resources
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormKhachHang.resources
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormNhanVien.resources
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormNhaCungCap.resources
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormTaiKhoan.resources
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormThongKe.resources
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormTimKiem.resources
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.Properties.Resources.resources
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.csproj.GenerateResource.cache
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.csproj.CopyComplete
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.exe
+C:\Users\Administrator\Pictures\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.pdb
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\cuahangbanthuoc.exe.config
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\cuahangbanthuoc.exe
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\cuahangbanthuoc.pdb
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\BLL.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\DAT.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\DOT.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\EnvDTE.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\stdole.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.MSXML.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\BLL.pdb
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\DAT.pdb
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\DOT.pdb
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.DangNhap.resources
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.Form1.resources
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormDangKi.resources
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormDangNhap.resources
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormHangHoa.resources
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormHoaDon.resources
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormKhachHang.resources
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormNhanVien.resources
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormNhaCungCap.resources
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormTaiKhoan.resources
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormThongKe.resources
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormTimKiem.resources
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.exe
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.pdb
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\cuahangbanthuoc.exe.config
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\cuahangbanthuoc.exe
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\cuahangbanthuoc.pdb
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\BLL.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\DAT.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\DOT.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\EnvDTE.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\stdole.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.MSXML.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\BLL.pdb
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\DAT.pdb
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\DOT.pdb
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.DangNhap.resources
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.Form1.resources
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormDangKi.resources
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormDangNhap.resources
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormHangHoa.resources
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormHoaDon.resources
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormKhachHang.resources
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormNhanVien.resources
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormNhaCungCap.resources
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormTaiKhoan.resources
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormThongKe.resources
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormTimKiem.resources
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.Properties.Resources.resources
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.csproj.CopyComplete
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.exe
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.pdb
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.csprojAssemblyReference.cache
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.DangNhap.resources
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.Form1.resources
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormDangKi.resources
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormDangNhap.resources
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormHangHoa.resources
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormHoaDon.resources
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormKhachHang.resources
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormNhanVien.resources
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormNhaCungCap.resources
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormTaiKhoan.resources
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormThongKe.resources
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.FormTimKiem.resources
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.Properties.Resources.resources
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.csproj.GenerateResource.cache
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.csproj.CoreCompileInputs.cache
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.exe
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.pdb
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\cuahangbanthuoc.exe.config
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\cuahangbanthuoc.exe
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\cuahangbanthuoc.pdb
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\BLL.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\DAT.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\DOT.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\EnvDTE.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\stdole.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\BLL.pdb
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\DAT.pdb
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\DOT.pdb
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\obj\Debug\cuahangbanthuoc.csproj.CopyComplete

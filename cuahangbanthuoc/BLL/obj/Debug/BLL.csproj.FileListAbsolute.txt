@@ -1,0 +1,110 @@
+C:\Users\MinhCpC\Desktop\navie-bayse\cuahangbanthuoc\BLL\bin\Debug\BLL.dll
+C:\Users\MinhCpC\Desktop\navie-bayse\cuahangbanthuoc\BLL\bin\Debug\BLL.pdb
+C:\Users\MinhCpC\Desktop\navie-bayse\cuahangbanthuoc\BLL\bin\Debug\DAT.dll
+C:\Users\MinhCpC\Desktop\navie-bayse\cuahangbanthuoc\BLL\bin\Debug\DOT.dll
+C:\Users\MinhCpC\Desktop\navie-bayse\cuahangbanthuoc\BLL\bin\Debug\DAT.pdb
+C:\Users\MinhCpC\Desktop\navie-bayse\cuahangbanthuoc\BLL\bin\Debug\DOT.pdb
+C:\Users\MinhCpC\Desktop\navie-bayse\cuahangbanthuoc\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\MinhCpC\Desktop\navie-bayse\cuahangbanthuoc\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\MinhCpC\Desktop\navie-bayse\cuahangbanthuoc\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\MinhCpC\Desktop\navie-bayse\cuahangbanthuoc\BLL\obj\Debug\BLL.dll
+C:\Users\MinhCpC\Desktop\navie-bayse\cuahangbanthuoc\BLL\obj\Debug\BLL.pdb
+C:\Users\MinhCpC\Desktop\SHOP123\SHOP\cuahangbanthuoc\BLL\bin\Debug\BLL.dll
+C:\Users\MinhCpC\Desktop\SHOP123\SHOP\cuahangbanthuoc\BLL\bin\Debug\BLL.pdb
+C:\Users\MinhCpC\Desktop\SHOP123\SHOP\cuahangbanthuoc\BLL\bin\Debug\DAT.dll
+C:\Users\MinhCpC\Desktop\SHOP123\SHOP\cuahangbanthuoc\BLL\bin\Debug\DOT.dll
+C:\Users\MinhCpC\Desktop\SHOP123\SHOP\cuahangbanthuoc\BLL\bin\Debug\DAT.pdb
+C:\Users\MinhCpC\Desktop\SHOP123\SHOP\cuahangbanthuoc\BLL\bin\Debug\DOT.pdb
+C:\Users\MinhCpC\Desktop\SHOP123\SHOP\cuahangbanthuoc\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\MinhCpC\Desktop\SHOP123\SHOP\cuahangbanthuoc\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\MinhCpC\Desktop\SHOP123\SHOP\cuahangbanthuoc\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\MinhCpC\Desktop\SHOP123\SHOP\cuahangbanthuoc\BLL\obj\Debug\BLL.dll
+C:\Users\MinhCpC\Desktop\SHOP123\SHOP\cuahangbanthuoc\BLL\obj\Debug\BLL.pdb
+E:\sua\SHOP123\SHOP\cuahangbanthuoc\BLL\bin\Debug\BLL.dll
+E:\sua\SHOP123\SHOP\cuahangbanthuoc\BLL\bin\Debug\BLL.pdb
+E:\sua\SHOP123\SHOP\cuahangbanthuoc\BLL\bin\Debug\DAT.dll
+E:\sua\SHOP123\SHOP\cuahangbanthuoc\BLL\bin\Debug\DOT.dll
+E:\sua\SHOP123\SHOP\cuahangbanthuoc\BLL\bin\Debug\DAT.pdb
+E:\sua\SHOP123\SHOP\cuahangbanthuoc\BLL\bin\Debug\DOT.pdb
+E:\sua\SHOP123\SHOP\cuahangbanthuoc\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\sua\SHOP123\SHOP\cuahangbanthuoc\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\sua\SHOP123\SHOP\cuahangbanthuoc\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\sua\SHOP123\SHOP\cuahangbanthuoc\BLL\obj\Debug\BLL.dll
+E:\sua\SHOP123\SHOP\cuahangbanthuoc\BLL\obj\Debug\BLL.pdb
+C:\Users\MinhCpC\Desktop\sua\sua\SHOP123\SHOP\cuahangbanthuoc\BLL\bin\Debug\BLL.dll
+C:\Users\MinhCpC\Desktop\sua\sua\SHOP123\SHOP\cuahangbanthuoc\BLL\bin\Debug\BLL.pdb
+C:\Users\MinhCpC\Desktop\sua\sua\SHOP123\SHOP\cuahangbanthuoc\BLL\bin\Debug\DAT.dll
+C:\Users\MinhCpC\Desktop\sua\sua\SHOP123\SHOP\cuahangbanthuoc\BLL\bin\Debug\DOT.dll
+C:\Users\MinhCpC\Desktop\sua\sua\SHOP123\SHOP\cuahangbanthuoc\BLL\bin\Debug\DAT.pdb
+C:\Users\MinhCpC\Desktop\sua\sua\SHOP123\SHOP\cuahangbanthuoc\BLL\bin\Debug\DOT.pdb
+C:\Users\MinhCpC\Desktop\sua\sua\SHOP123\SHOP\cuahangbanthuoc\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\MinhCpC\Desktop\sua\sua\SHOP123\SHOP\cuahangbanthuoc\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\MinhCpC\Desktop\sua\sua\SHOP123\SHOP\cuahangbanthuoc\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\MinhCpC\Desktop\sua\sua\SHOP123\SHOP\cuahangbanthuoc\BLL\obj\Debug\BLL.dll
+C:\Users\MinhCpC\Desktop\sua\sua\SHOP123\SHOP\cuahangbanthuoc\BLL\obj\Debug\BLL.pdb
+C:\Users\MinhCpC\Desktop\sua\BLL\bin\Debug\BLL.dll
+C:\Users\MinhCpC\Desktop\sua\BLL\bin\Debug\BLL.pdb
+C:\Users\MinhCpC\Desktop\sua\BLL\bin\Debug\DAT.dll
+C:\Users\MinhCpC\Desktop\sua\BLL\bin\Debug\DOT.dll
+C:\Users\MinhCpC\Desktop\sua\BLL\bin\Debug\DAT.pdb
+C:\Users\MinhCpC\Desktop\sua\BLL\bin\Debug\DOT.pdb
+C:\Users\MinhCpC\Desktop\sua\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\MinhCpC\Desktop\sua\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\MinhCpC\Desktop\sua\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\MinhCpC\Desktop\sua\BLL\obj\Debug\BLL.dll
+C:\Users\MinhCpC\Desktop\sua\BLL\obj\Debug\BLL.pdb
+E:\sua\sua\BLL\bin\Debug\BLL.dll
+E:\sua\sua\BLL\bin\Debug\BLL.pdb
+E:\sua\sua\BLL\bin\Debug\DAT.dll
+E:\sua\sua\BLL\bin\Debug\DOT.dll
+E:\sua\sua\BLL\bin\Debug\DAT.pdb
+E:\sua\sua\BLL\bin\Debug\DOT.pdb
+E:\sua\sua\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\sua\sua\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\sua\sua\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\sua\sua\BLL\obj\Debug\BLL.dll
+E:\sua\sua\BLL\obj\Debug\BLL.pdb
+C:\Users\Administrator\Downloads\BTLWIN_nhóm7\BTLWIN_nhóm7\ShoesStore\BLL\bin\Debug\BLL.dll
+C:\Users\Administrator\Downloads\BTLWIN_nhóm7\BTLWIN_nhóm7\ShoesStore\BLL\bin\Debug\BLL.pdb
+C:\Users\Administrator\Downloads\BTLWIN_nhóm7\BTLWIN_nhóm7\ShoesStore\BLL\bin\Debug\DAT.dll
+C:\Users\Administrator\Downloads\BTLWIN_nhóm7\BTLWIN_nhóm7\ShoesStore\BLL\bin\Debug\DOT.dll
+C:\Users\Administrator\Downloads\BTLWIN_nhóm7\BTLWIN_nhóm7\ShoesStore\BLL\bin\Debug\DAT.pdb
+C:\Users\Administrator\Downloads\BTLWIN_nhóm7\BTLWIN_nhóm7\ShoesStore\BLL\bin\Debug\DOT.pdb
+C:\Users\Administrator\Downloads\BTLWIN_nhóm7\BTLWIN_nhóm7\ShoesStore\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\BTLWIN_nhóm7\BTLWIN_nhóm7\ShoesStore\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\BTLWIN_nhóm7\BTLWIN_nhóm7\ShoesStore\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Administrator\Downloads\BTLWIN_nhóm7\BTLWIN_nhóm7\ShoesStore\BLL\obj\Debug\BLL.dll
+C:\Users\Administrator\Downloads\BTLWIN_nhóm7\BTLWIN_nhóm7\ShoesStore\BLL\obj\Debug\BLL.pdb
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\BLL\bin\Debug\BLL.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\BLL\bin\Debug\BLL.pdb
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\BLL\bin\Debug\DAT.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\BLL\bin\Debug\DOT.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\BLL\bin\Debug\DAT.pdb
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\BLL\bin\Debug\DOT.pdb
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\BLL\obj\Debug\BLL.dll
+C:\Users\User\OneDrive\Desktop\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\BLL\obj\Debug\BLL.pdb
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\BLL\bin\Debug\BLL.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\BLL\bin\Debug\BLL.pdb
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\BLL\bin\Debug\DAT.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\BLL\bin\Debug\DOT.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\BLL\bin\Debug\DAT.pdb
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\BLL\bin\Debug\DOT.pdb
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\BLL\obj\Debug\BLL.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\BLL\obj\Debug\BLL.pdb
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\BLL\bin\Debug\BLL.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\BLL\bin\Debug\BLL.pdb
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\BLL\bin\Debug\DAT.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\BLL\bin\Debug\DOT.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\BLL\bin\Debug\DAT.pdb
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\BLL\bin\Debug\DOT.pdb
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\BLL\obj\Debug\BLL.dll
+C:\Users\Phuong Thao\Documents\Window\cuahangbanthuoc\cuahangbanthuoc\cuahangbanthuoc\BLL\obj\Debug\BLL.pdb

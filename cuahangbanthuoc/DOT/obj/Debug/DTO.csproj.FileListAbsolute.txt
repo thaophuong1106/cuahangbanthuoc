@@ -1,0 +1,4 @@
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\DOT\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\DOT\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\DOT\obj\Debug\DOT.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\DOT\obj\Debug\DOT.pdb

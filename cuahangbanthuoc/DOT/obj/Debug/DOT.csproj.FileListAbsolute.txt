@@ -1,0 +1,36 @@
+C:\Users\MinhCpC\Desktop\navie-bayse\cuahangbanthuoc\DOT\bin\Debug\DOT.dll
+C:\Users\MinhCpC\Desktop\navie-bayse\cuahangbanthuoc\DOT\bin\Debug\DOT.pdb
+C:\Users\MinhCpC\Desktop\navie-bayse\cuahangbanthuoc\DOT\obj\Debug\DOT.csprojAssemblyReference.cache
+C:\Users\MinhCpC\Desktop\navie-bayse\cuahangbanthuoc\DOT\obj\Debug\DOT.csproj.CoreCompileInputs.cache
+C:\Users\MinhCpC\Desktop\navie-bayse\cuahangbanthuoc\DOT\obj\Debug\DOT.dll
+C:\Users\MinhCpC\Desktop\navie-bayse\cuahangbanthuoc\DOT\obj\Debug\DOT.pdb
+C:\Users\MinhCpC\Desktop\SHOP123\SHOP\cuahangbanthuoc\DOT\bin\Debug\DOT.dll
+C:\Users\MinhCpC\Desktop\SHOP123\SHOP\cuahangbanthuoc\DOT\bin\Debug\DOT.pdb
+C:\Users\MinhCpC\Desktop\SHOP123\SHOP\cuahangbanthuoc\DOT\obj\Debug\DOT.csprojAssemblyReference.cache
+C:\Users\MinhCpC\Desktop\SHOP123\SHOP\cuahangbanthuoc\DOT\obj\Debug\DOT.csproj.CoreCompileInputs.cache
+C:\Users\MinhCpC\Desktop\SHOP123\SHOP\cuahangbanthuoc\DOT\obj\Debug\DOT.dll
+C:\Users\MinhCpC\Desktop\SHOP123\SHOP\cuahangbanthuoc\DOT\obj\Debug\DOT.pdb
+C:\Users\MinhCpC\Desktop\sua\sua\SHOP123\SHOP\cuahangbanthuoc\DOT\bin\Debug\DOT.dll
+C:\Users\MinhCpC\Desktop\sua\sua\SHOP123\SHOP\cuahangbanthuoc\DOT\bin\Debug\DOT.pdb
+C:\Users\MinhCpC\Desktop\sua\sua\SHOP123\SHOP\cuahangbanthuoc\DOT\obj\Debug\DOT.csprojAssemblyReference.cache
+C:\Users\MinhCpC\Desktop\sua\sua\SHOP123\SHOP\cuahangbanthuoc\DOT\obj\Debug\DOT.csproj.CoreCompileInputs.cache
+C:\Users\MinhCpC\Desktop\sua\sua\SHOP123\SHOP\cuahangbanthuoc\DOT\obj\Debug\DOT.dll
+C:\Users\MinhCpC\Desktop\sua\sua\SHOP123\SHOP\cuahangbanthuoc\DOT\obj\Debug\DOT.pdb
+E:\sua\sua\DOT\bin\Debug\DOT.dll
+E:\sua\sua\DOT\bin\Debug\DOT.pdb
+E:\sua\sua\DOT\obj\Debug\DOT.csprojAssemblyReference.cache
+E:\sua\sua\DOT\obj\Debug\DOT.csproj.CoreCompileInputs.cache
+E:\sua\sua\DOT\obj\Debug\DOT.dll
+E:\sua\sua\DOT\obj\Debug\DOT.pdb
+C:\Users\Administrator\Downloads\BTLWIN_nhóm7\BTLWIN_nhóm7\ShoesStore\DOT\bin\Debug\DOT.dll
+C:\Users\Administrator\Downloads\BTLWIN_nhóm7\BTLWIN_nhóm7\ShoesStore\DOT\bin\Debug\DOT.pdb
+C:\Users\Administrator\Downloads\BTLWIN_nhóm7\BTLWIN_nhóm7\ShoesStore\DOT\obj\Debug\DOT.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\BTLWIN_nhóm7\BTLWIN_nhóm7\ShoesStore\DOT\obj\Debug\DOT.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\BTLWIN_nhóm7\BTLWIN_nhóm7\ShoesStore\DOT\obj\Debug\DOT.dll
+C:\Users\Administrator\Downloads\BTLWIN_nhóm7\BTLWIN_nhóm7\ShoesStore\DOT\obj\Debug\DOT.pdb
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\DOT\bin\Debug\DOT.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\DOT\bin\Debug\DOT.pdb
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\DOT\obj\Debug\DOT.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\DOT\obj\Debug\DOT.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\DOT\obj\Debug\DOT.dll
+C:\Users\User\OneDrive\Documents\ki6\Win\BTL_Nhóm 5\cuahangbanthuoc\cuahangbanthuoc\DOT\obj\Debug\DOT.pdb
